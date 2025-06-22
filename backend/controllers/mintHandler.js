@@ -1,19 +1,20 @@
+// mintHandler.js
 const { ethers } = require("hardhat");
 
-async function main() {
+async function mintNFT(metadataURI) {
   const contractAddress = "0xE4A80b8529Be90ca8D889fb66fAc033322733bd7";
-  const metadataURI = "ipfs://bafkreiere5i5x7y2gxw6h67hml72ifwkxvdp42wc5452nha4eazoytol6q";
 
   const [owner] = await ethers.getSigners();
 
   const nft = await ethers.getContractAt("InfNFT", contractAddress, owner);
   const tx = await nft.safeMint(owner.address, metadataURI);
-  await tx.wait();
+  const receipt = await tx.wait();
 
-  console.log("NFT minted to:", owner.address);
+  return {
+    to: owner.address,
+    txHash: tx.hash,
+    blockNumber: receipt.blockNumber,
+  };
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+module.exports = mintNFT;

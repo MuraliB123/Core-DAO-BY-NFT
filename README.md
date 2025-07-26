@@ -1,8 +1,10 @@
 # CreatorDAOx
 
-**CreatorDAOx** empowers creators and influencers to make community-driven decisions through verifiable and decentralized voting. Whether it’s deciding on the next VLOG destination or choosing the next AI tool to explore, decisions are shaped by the voice of the audience—secured via NFT-based ownership. 
+**CreatorDAOx** empowers creators and influencers to make community-driven decisions through verifiable and decentralized voting. 
+Whether it’s deciding on the next VLOG destination or choosing the next AI tool to explore, decisions are shaped by the voice of the audience—secured via NFT-based ownership. 
 
-These NFTs are not just access tokens; they are uniquely personalized and AI-generated using the creator’s portrait, adding sentimental and economic value. Being tradable on marketplaces, they fuel a vibrant secondary economy within the creator-fan ecosystem.
+These NFTs are not just access tokens; they are uniquely personalized and AI-generated using the creator’s portrait, adding sentimental and economic value. 
+Being tradable on marketplaces, they fuel a vibrant secondary economy within the creator-fan ecosystem.
 
 ---
 

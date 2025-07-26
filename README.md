@@ -33,3 +33,13 @@ These NFTs are not just access tokens; they are uniquely personalized and AI-gen
 ![User Dashboard](img/u1.png)
 ![User Dashboard](img/u3.png)
 
+# FAQ
+1. Is this scalable ?
+   - Yes,
+   - Instead of minting NFTs for every user, only a limited subset is minted based on demand or campaign cycles. 
+   - NFTs are tradable in open marketplaces. This allows new participants to join DAO voting by purchasing NFTs, removing the need to mint for every new voter.
+  
+2. 🔭 End Vision
+
+ - The long-term goal is to release **CreatorDAOx** as an SDK, enabling developers and creators to seamlessly integrate DAO-based decision-making and NFT-gated voting on the Core Network within their own platforms and communities.
+

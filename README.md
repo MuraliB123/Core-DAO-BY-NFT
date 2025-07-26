@@ -1,12 +1,29 @@
-# Core-DAO-BY-NFT
-Each decision of the creator and influencer is driven by fair user voting,for example decisions like "which place should I VLOG next ?, Which AI tool should I debug next ?" These are driven by users in unbiased manner by verfying the ownership via NFTs. These NFTs are personalised and AI generated based on creator protraits. They are tradable in Marketplace thus creating a secondary economy in creator-fan ecosystem. 
+# CreatorDAOx
 
-# How it works
-1. Creators generates personalised avatars using Custom Stable diffusion.
-2. Mints NFTs with above generated image.
-3. Creates a Poll on DAO.
-4. Users are provided access to vote after owning the NFTs minted by the creator.
-5. Final decision is taken.
+**CreatorDAOx** empowers creators and influencers to make community-driven decisions through verifiable and decentralized voting. Whether it’s deciding on the next VLOG destination or choosing the next AI tool to explore, decisions are shaped by the voice of the audience—secured via NFT-based ownership. 
+
+These NFTs are not just access tokens; they are uniquely personalized and AI-generated using the creator’s portrait, adding sentimental and economic value. Being tradable on marketplaces, they fuel a vibrant secondary economy within the creator-fan ecosystem.
+
+---
+
+## 🔧 How It Works
+
+1. **Personalized NFT Generation**  
+   Creators generate custom avatars using a tailored Stable Diffusion model based on their portraits.
+
+2. **NFT Minting**  
+   The generated avatar is minted as an ERC-721 NFT and published on a Core Testnet.
+
+3. **Poll Creation on DAO**  
+   The creator sets up a decentralized poll related to upcoming content or decisions.
+
+4. **Community Voting**  
+   Fans and followers who own the creator’s NFT gain the right to vote in the DAO poll.
+
+5. **Decentralized Decision Execution**  
+   The decision with the most votes is transparently adopted, enabling collaborative content creation.
+
+---
 
 # User Interface
 ![Landing Page](img/hp.png) 

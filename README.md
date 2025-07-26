@@ -8,6 +8,11 @@ Each decision of the creator and influencer is driven by fair user voting,for ex
 4. Users are provided access to vote after owning the NFTs minted by the creator.
 5. Final decision is taken.
 
-# user interface
-![Landing Page](img/hp.png)
+# User Interface
+![Landing Page](img/hp.png) 
+![Creator Dashboard](img/cd1.png)
+![Creator Dashboard](img/cd2.png)
+![AI Model](img/sd.png)
+![User Dashboard](img/u1.png)
+![User Dashboard](img/u3.png)
 

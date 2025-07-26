@@ -33,6 +33,17 @@ These NFTs are not just access tokens; they are uniquely personalized and AI-gen
 ![User Dashboard](img/u1.png)
 ![User Dashboard](img/u3.png)
 
+## 🚀 How to Run
+
+1. Navigate to each folder and run:  
+   ```bash
+   npm install
+   npm run dev
+2. Start backend server by running:
+   ```bash
+   cd backend
+   node server.js
+   
 # FAQ
 1. Is this scalable ?
    - Yes,

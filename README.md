@@ -12,7 +12,7 @@ Each decision of the creator and influencer is driven by fair user voting,for ex
 ![Landing Page](img/hp.png) 
 ![Creator Dashboard](img/cd1.png)
 ![Creator Dashboard](img/cd2.png)
-![AI Model](img/sd.png)
+![AI Model](img/sd.jpg)
 ![User Dashboard](img/u1.png)
 ![User Dashboard](img/u3.png)
 

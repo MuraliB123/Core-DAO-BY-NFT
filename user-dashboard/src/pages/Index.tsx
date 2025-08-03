@@ -63,9 +63,9 @@ const Index = () => {
     setVotingState("buying");
     setBuyingStep("checking");
 
-    // Replace these with actual values as needed
-  const contractAddress = "0xE4A80b8529Be90ca8D889fb66fAc033322733bd7";
-  const recipientAddress = "0x2B30481ce79008ac7734b0Ff81aCc4858c0465D3";// Example recipient address
+
+  const contractAddress = "";
+  const recipientAddress = "";
 
     try {
       // Step 1: Checking NFT collection (simulate delay)
